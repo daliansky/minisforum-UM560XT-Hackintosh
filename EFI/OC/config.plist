@@ -3,11 +3,11 @@
 <plist version="1.0">
     <dict>
         <key>#Build Date</key>
-        <string>6-15-2023</string>
+        <string>9-7-2023</string>
         <key>#Maker by</key>
         <string>minisforum UM560XT</string>
         <key>#OpenCore Version</key>
-        <string>v0.9.4 Debug</string>
+        <string>v0.9.4 Release</string>
         <key>#Posted on</key>
         <string>黑果小兵的部落阁 https://blog.daliansky.net</string>
         <key>ACPI</key>
