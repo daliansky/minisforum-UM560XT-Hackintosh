@@ -8,7 +8,7 @@ minisforum UM560XT Hackintosh
 |   规格    |                           详细信息                           |
 | :-------: | :----------------------------------------------------------: |
 | 电脑型号  |                      minisforum UM560XT                      |
-| 操作系统  |    macOS `Ventura` /  `Monterey` / `Big Sur` / `Catalina`    |
+| 操作系统  | macOS `Sonoma` / `Ventura` /  `Monterey` / `Big Sur` / `Catalina` |
 |  处理器   |                 AMD 锐龙 R5-5600H 6核12线程                  |
 |   内存    |                      16 GB DDR4 3200MHz                      |
 |   硬盘1   |                KINGSTON OM8PDP3512B-A01 512GB                |
@@ -19,4 +19,12 @@ minisforum UM560XT Hackintosh
 | 无线网卡  | m.2 NGFF插槽，默认出厂为 `Mediatek RZ608` 已更换为[BCM94360Z3](https://blog.daliansky.net/uploads/WeChatandShop.png) |
 | 有线网卡1 |               Intel Ethernet Controller I225-V               |
 
-![iterm2](./ScreenShots/iTerm_for_UM560XT.png)
+# 更新记录
+
+- 9-7-2023
+
+  - 修复声卡驱动，支持麦克风输入
+
+  
+
+![iterm2](./ScreenShots/UM560XT_Micphone_OK.png)
