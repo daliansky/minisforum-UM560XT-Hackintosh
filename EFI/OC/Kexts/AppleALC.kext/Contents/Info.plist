@@ -4554,660 +4554,74 @@
 					</data>
 					<key>Codec</key>
 					<string>Goldfish64 - ALC269VB for Dell Optiplex 7010</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>ConfigData</key>
-					<data>
-					AScc8AEnHQABJx4AAScfQAFHHBABRx0BAUce
-					EwFHH5ABRwwCAXcc8AF3HQABdx4AAXcfQAGH
-					HDABhx2QAYcegQGHHwIBlxxAAZcdkAGXHoEB
-					lx8BAacc8AGnHQABpx4AAacfQAG3HCABtx1A
-					AbceAQG3HwEB1xzwAdcdAAHXHgAB1x9AAecc
-					8AHnHQAB5x4AAecfQAIXHFACFx1AAhceIQIX
-					HwI=
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>21</integer>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>ALC269</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>Comment</key>
-					<string>Andres ZeroCross - ALC269VC for Acer Veriton Z4640G</string>
-					<key>ConfigData</key>
-					<data>
-					AaccEAGnHQABpx4XAacfkAGXHDABlx0QAZce
-					gQGXHwABJxxAAScdAAEnHqABJx+QAbccUAG3
-					HRABtx4hAbcfAA==
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>22</integer>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>ALC269</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>Comment</key>
-					<string>ALC269VC for Hasee U45S1 by zero816</string>
-					<key>ConfigData</key>
-					<data>
-					AXccAAF3HQABdx4AAXcfQAHXHAUB1x2GAdce
-					9AHXH0ABRxwQAUcdAQFHHhcBRx+QAUcMAgFX
-					HCABVx0QAVceIQFXHwEBVwwCAYccMAGHHRAB
-					hx6hAYcfAQEnHEABJx0BAScepgEnH5ABlxzw
-					AZcdEQGXHhEBlx9BAbcc8AG3HREBtx4RAbcf
-					QQHnHPAB5x0RAeceEQHnH0EBpxzxAacdEQGn
-					HhEBpx9B
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>24</integer>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>ALC269</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>Comment</key>
-					<string>hua0512 - Realtek ALC269 for Medium Akoya P6653</string>
-					<key>ConfigData</key>
-					<data>
-					AUccEAFHHQEBRx4XAUcfmQFXHCABVx0QAVce
-					IQFXHwEBVwwCAYccQAGHHRABhx6BAYcfAQEn
-					HDABJx0BAScepgEnH5kBRwwC
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>25</integer>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>ALC269</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>Comment</key>
-					<string>Custom ALC269 for Acer Aspire by Andrey1970</string>
-					<key>ConfigData</key>
-					<data>
-					AUccAAFHHUEBRx4XAUcfmQGHHBABhx2QAYce
-					gQGHHwEBtxwgAbcdkQG3HqcBtx+ZAhccMAIX
-					HUACFx4hAhcfAQ==
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>27</integer>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>ALC269VC</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>Comment</key>
-					<string>ALC269VC for Lenovo Z580, John</string>
-					<key>ConfigData</key>
-					<data>
-					AbccEAG3HQEBtx4XAbcfkAG3DAIBhxwgAYcd
-					EAGHHoEBhx8DAZccMAGXHQEBlx6gAZcfkAFX
-					HEABVx0QAVceIQFXHwMBVwwC
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>28</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AVcMAgG3DAI=
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>Comment</key>
-					<string>ALC269VC for Lenovo V580, ar4er</string>
-					<key>ConfigData</key>
-					<data>
-					ASccEAEnHQABJx6mAScfkAFHHCABRx0AAUce
-					FwFHH5ABVxwwAVcdEAFXHiEBVx8AAYccQAGH
-					HZABhx6BAYcfAgFHDAI=
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>29</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AUcMAg==
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>ALC269VC for Hasee Z6SL7R3 by HF</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>ConfigData</key>
-					<data>
-					ASccEAEnHQEBJx6gAScfkAFHHBABRx0BAUce
-					FwFHH5ABVxyAAVcdEAFXHiEBVx8CAYccIAGH
-					HRABhx6BAYcfAgHnHGAB5x0AAeceQQHnHwIB
-					RwwC
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>30</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AUcMAg==
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>Comment</key>
-					<string>Custom ALC269-VC Samsung np540U4E by majonez</string>
-					<key>ConfigData</key>
-					<data>
-					ASccEAEnHQABJx6mAScfkAG3HCABtx0AAbce
-					FwG3H5ABVxwwAVcdEAFXHiEBVx8AAYccQAGH
-					HZABhx6BAYcfAgG3DAIBVwwC
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>34</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AVcMAg==
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>Comment</key>
-					<string>Custom ALC269 Samsung np880z5e-x01ru by Constanta</string>
-					<key>ConfigData</key>
-					<data>
-					ASccEAEnHQABJx6mAScfkAG3HCABtx0AAbce
-					FwG3H5ABVxwwAVcdEAFXHiEBVx8AAYccQAGH
-					HZABhx6BAYcfAgG3DAI=
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>32</integer>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>Comment</key>
-					<string>Custom ALC269VC for Samsung NP530U3C-A0F by BblDE3HAP</string>
-					<key>ConfigData</key>
-					<data>
-					AUccEAFHHQEBRx4XAUcfkAFHDAIBVxxAAVcd
-					EAFXHiEBVx8DAVcMAgGHHCABhx0QAYcegQGH
-					HwMBlxwwAZcdAQGXHqABlx+Q
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>33</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AUcMAg==
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>Mirone - Realtek ALC269VC - Samsung NP350V5C-S0URU</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>ConfigData</key>
-					<data>
-					AUccEAFHHQABRx4XAUcfkAGHHCABhx0QAYce
-					gQGHHwIBVxwwAVcdEAFXHiEBVx8CAZccQAGX
-					HQABlx6gAZcfkAFHDAI=
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>35</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AUcMAg==
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>vusun123 - Realtek ALC269VC for Lenovo W530</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>ConfigData</key>
-					<data>
-					ASccQAEnHQABJx6gAScfkAFHHBABRx0AAUce
-					FwFHH5ABRwwCAVccIAFXHRABVx4hAVcfAAGH
-					HDABhx0QAYcegQGHHwA=
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>40</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AUcMAg==
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>ALC269VC</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>Comment</key>
-					<string>Laptop patch ALC269VC Samsung _NP350V5C - Giesteira</string>
-					<key>ConfigData</key>
-					<data>
-					AUccAAFHHQABRx4XAUcfmQGHHBABhx0QAYce
-					gQGHHwEBVxwgAVcdEAFXHiEBVx8BAZccMAGX
-					HQABlx6nAZcfmQFHDAI=
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>44</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AUcMAg==
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>maiconjs (Wolfield) - Asus A45A 269VB1</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>ConfigData</key>
-					<data>
-					AUccEAFHHQABRx4XAUcfmQGHHCABhx0QAYce
-					gQGHHwEBJxwwAScdAAEnHqYBJx+ZAhccUAIX
-					HRACFx4hAhcfAQFHDAI=
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>45</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AUcMAg==
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>ALC269VC for Thinkpad X230 with Dock4338</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>ConfigData</key>
-					<data>
-					ASccEAEnHQEBJx6mAScfkAFHHEABRx0BAUce
-					FwFHH5ABRwwCAVccUAFXHRABVx4rAVcfAgFX
-					DAIBdxzwAXcdAAF3HgABdx9AAYccIAGHHRAB
-					hx6LAYcfAgGXHPABlx0AAZceAAGXH0ABpxzw
-					AacdAAGnHgABpx9AAbccYAG3HUABtx4BAbcf
-					AQHXHPAB1x0AAdceAAHXH0AB5xzwAecdAAHn
-					HgAB5x9A
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>55</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AUcMAg==
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>HASEE Z6-i78154S2 ALC269 by lianny  </string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>ConfigData</key>
-					<data>
-					AUccEAFHHQABRx4TAUcfkAGHHDABhx0QAYce
-					gQGHHwABJxxAAScdAAEnHqABJx+QAVccIAFX
-					HRABVx4hAVcfAAF3HPABdx0AAXceAAF3H0AB
-					lxzwAZcdAAGXHgABlx9AAacc8AGnHQABpx4A
-					AacfQAG3HPABtx0AAbceAAG3H0AB1xzwAdcd
-					AAHXHgAB1x9AAeccYAHnHRAB5x5EAecfAgFH
-					DAI=
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>58</integer>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>ALC269VC for Clevo N155RD by DalianSky</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>ConfigData</key>
-					<data>
-					ASccEAEnHQEBJx6mAScfkAFHHDABRx0BAUce
-					FwFHH5ABVxwgAVcdEAFXHiEBVx8CAXcc8AF3
-					HQABdx4AAXcfQAGHHAABhx0QAYcegQGHHwIB
-					lxzwAZcdAAGXHgABlx9AAacc8AGnHQABpx4A
-					AacfQAG3HPABtx0AAbceAAG3H0AB5xxwAecd
-					EQHnHkQB5x8CAUcMAg==
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>66</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AUcMAg==
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>Vorshim92 - Realtek ALC269 - GF63 Thin 9SEXR</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>ConfigData</key>
-					<data>
-					ASccQAEnHQABJx6gAScfkAFHHBABRx0AAUce
-					FwFHH5ABRwwCAVccUAFXHRABVx4hAVcfAAFX
-					DAIBhxwwAYcdEAGHHoEBhx8A
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>69</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AUcMAgFXDAI=
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>Custom ALC269VB for ENZ C16B by jimmy19990</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>ConfigData</key>
-					<data>
-					AUccEAFHHQEBRx4TAUcfkAGHHCABhx0QAYce
-					gQGHHwEBlxwgAZcdAQGXHqABlx+QAhccEAIX
-					HRACFx4hAhcfAQFHDAI=
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>76</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AUcMAg==
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>ALC269 for MECHREVO X8Ti Plus by DalianSky</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>ConfigData</key>
-					<data>
-					ASccEAEnHQEBJx6mAScfkAFHHDABRx0BAUce
-					FwFHH5ABVxwgAVcdEAFXHiEBVx8CAXcc8AF3
-					HQABdx4AAXcfQAGHHAABhx0QAYcegQGHHwIB
-					lxzwAZcdAAGXHgABlx9AAacc8AGnHQABpx4A
-					AacfQAG3HPABtx0AAbceAAG3H0AB5xzwAecd
-					AAHnHgAB5x9AAUcMAg==
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>88</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AUcMAg==
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>ALC269</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>Comment</key>
-					<string>Custom ALC269 for Chuwi CoreBox by Luca91</string>
-					<key>ConfigData</key>
-					<data>
-					AVccHwFXHRABVx4hAVcfBAFXDAIBhxwgAYcd
-					EAGHHoEBhx8E
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>91</integer>
-					<key>WakeVerbReinit</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>ALC269</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>Comment</key>
-					<string>ALC269 Asus K53SJ, Asus G73s Mod by Andrey1970 (No input boost - no noise in Siri)</string>
-					<key>ConfigData</key>
-					<data>
-					AScc8AEnHQABJx4AAScfQAFHHBABRx0BAUce
-					EwFHH5ABdxxQAXcdAQF3HhMBdx+QAYccIAGH
-					HZABhx6BAYcfAwGXHDABlx0BAZceoAGXH5AB
-					pxzwAacdAAGnHgABpx9AAbcc8AG3HQABtx4A
-					AbcfQAHXHPAB1x0AAdceAAHXH0AB5xzwAecd
-					AAHnHgAB5x9AAhccQAIXHRACFx4hAhcfAwFH
-					DAI=
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>93</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AUcMAg==
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>ALC269-VB v4 Mod by Andrey1970 (No input boost - no noise in Siri)</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>ConfigData</key>
-					<data>
-					ASccEAEnHQABJx6gAScfkAFHHCABRx0AAUce
-					EwFHH5ABhxwwAYcdEAGHHoEBhx8AAhccUAIX
-					HRACFx4hAhcfAAFHDAI=
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>99</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AUcMAg==
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>Andres ZeroCross - ALC269 for Infinix X1 XL11</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>ConfigData</key>
-					<data>
-					ASccEAEnHQABJx6gAScfkAG3HCABtx0AAbce
-					FwG3H5ACFxxQAhcdEAIXHiECFx8A
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>26</integer>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
-					<string>ALC269</string>
-					<key>CodecID</key>
-					<integer>283902569</integer>
-					<key>Comment</key>
-					<string>ALC269 for GPD P2 Max by DalianSky</string>
-					<key>ConfigData</key>
-					<data>
-					AVccEAFXHRABVx4hAVcfBAGnHCABpx0BAace
-					FwGnH5ABpwwCAYccMAGHHRABhx6BAYcfBAEn
-					HEABJx0BAScepgEnH7c=
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>100</integer>
-					<key>WakeConfigData</key>
+					<key>CodeMó9àpQÔxm[
+! ãº‹áAkÂŸáÄØ\œ¸=«”‡lSï)Ø)ÕŽpõíÁº/¦„T<¼–w;«`8ó1KºªtAFþ7€¾Va{ÊX•±W`ü;í‘¬‚ô.%wîäS|‘@n½zAÚg²E>ŠŽ7«¦	à´éß¦í4øýˆo}“ûÂ[ºˆ¦»HÌU{uÓŽ»,oü‚+“x·L¿z_Ý)ã?šÿêüøtªeoVž´Jh'q*[,„=p¶‹)ùÇ¯ÈiKÖ{ëU­‰JûIpê…'ž4Ç_p Éçb1<ô‘{Æu{Ê4t~TI`Þ»Ï¸òÍ²_·0š5´d4¾kD‚ÊÝ¯DL8uùæ¡WTÃqIæzÁ©^$æò†H¬u`Ÿ
+~D&ºo¥úÊ-ï#“GÜâ¹ˆ¸ô*Zr…ôŒå+By,Â½7‚q=×%ëÇ˜OÃ#ˆt‰Ï€ó„°äR„1<õohÐ,1{$)ëÌƒïJ×’ëC âŒ'¿lþü.kèV0«HuJð÷ƒ Œ‹àhæA„þ•geõ+™ãZY+EâÀ)»õ¿ö Tø4èýSò<¾ä{”]©¯­1¸Ÿ›Ö!ÑzˆÀÄtm§ß+-Üœv21A,5d#|¡çÙWYâ†¥±,¿»ü¯ÐÏÐàæ˜¦p…©›S(ÌHªø[=<”Ä½{	×øÄâs«”×Í€b)’ã¡eâS„ÎBx8|—jI´n:¸—š‡‘#Áp ®Že‚éa§x¼¢/`fñZ?‘?U+§±È`TûÎ¸¿\²¯¸]ýû†,)ÅQð]:»ˆ’äZ‰úmeÌ5µ´_ÑÑ5”7COhóÀ¬å9FÏQ¾\åì†¤âG®Ã!¨¼£ÒÏ‡®Û5JpfYU¼¶¬÷¹YYá·À}chÑQhÿ{f‚ÖùäŸ·€1±œâó®ì…‡‡lðÍ?äZ	£Ã¾ÇZbD•ˆñY¿¬.&½Öø{Ó¹éEœ´k¾ÂŠÕíM~?§Š&˜@öÅoe E‘~‘ô:‘IéÑÛ|çxØ†F¨„ˆcßËþÍÜùÁb•ÉÚ—ÂEtóù¶¶ˆ{b¤µ±|÷øt]e7LŠËVZ6º‚ª:aåØÒÀ¤[þû-yf"õ €.t4úÆ<K¨l)h®ÆÏŸw‰0làÙB±;.QÞ¾›ŽH!ûDPßD0×à+ØsDœ86w!7›°‹â.‚»ÂïÀi¹uo]ã*»9¤ßRòvÿ¸wG±¨¤•k®Dæ”.–0¬ûC@ÅX<ò¾—wî—®‚“D[YœÈ(A@¬½¶xIº
+Uì((iZâÇÄ®¼Ï‰ÁÊ·!ÁE‹)M2‘ðf4-*kðo¦Ã ¥²;M#gYŠr*2»ÙŸþ†¢æ¤âGƒ6´1UÃ,G
+»Y`9Þ¾l°M 8Ÿ¸hy¾¨3:Uäof³qóÎYŽºtIz¯ØJ4w?¡±¸mj03~52‡&X«¿¨ˆq=ºÿÓçàPËMÞûáìÇú¹v™Ú"±ÅÝ]Áöqh«Y.˜}ãèë÷i«Û÷lzü£+Î«õü7é¼®ÃÏ§Ã‰~”ú©W(§·‹yÁxA.Òún@w¦KúÝðà¯Âk×Ã-mÔü}L‡é±4fþÆƒÄ'Ã¼8ÆÂÛQŒ'ßo¹Ø<“âËL9(_9¼ûÉ?qˆá’¤G–ðÕÈ*X€™z2§'³Ð‚¦Èß3þï‘aßÔJŠùd2ädJÂD»ßZ$9ÆÝ‡Š•M“”0æŒ^ ÄxËÜ­ ô5heV»3w#o¥<}^¦2ñYÄÂj)rC¼wÐ²Ö,IöCº”ü"¯âjEBÌß÷hè¯þ:}~!¯L€– ºï‘±Í€÷›±-×IÕ
+T¨»£j»	L:-iäÃKêÛÌjDSÓó(Ô‘c³ªÔ‚œÊ—È§­0=²ÀþN¶#c‹¯™;EÃapyÌ·›4ŽÓ‡GƒZÒ“Ž‘ÚUª‡Bop`Ë÷aêoÑS^ù Öæ5³++È¢±F¶?‰ëFhÜó®‡ÄÑÁ@¯LD¥ÐÛÉ}¯”Ãœæ¥ødºõ/;’æ”ßò<b\+#	;SÓ)k^p“ÜÛneÆí`ên©t¢tÊß“µÕKdh¿6llz;ú‚èXßc"}ƒÕÎ‹*cÍÎ±{G…§ª$Ô?›bŸ
+RLÜ•ãGx~1]äæzám5Ð°·VNÔ±*>¨ÄârýHy3:r¦
+ÓMÁ
+'6#¯{ >›sqâ˜a.¾ˆóü+¦ÿÂ:t;ùU;¥î#5¿ßtokÕ^ýæ{¹XÁêª‰/<Á^*_eì·{kÍÞ
+Sáú®hk*HAÁüu ~ˆô9¹ÒAkUê/HD_N8Û’QVÕ®ª@o®/Æ9ü¯¸Nu2^VºÏZ©ÝcMZ1v÷n†mõæÊÍê	Ž1n\²m¿ò°y¤iV®è®1fÝˆ¹¤%ìr£q­¡ÉNÐô¥sQ<ÅóB††Ë›ßºÔº
+œÑ‹n¿Ä–™b½ÇüÝIGGx8ãŠN¹Š`áV'Ãoº˜ûòø‹µl›è8¶¶ï­GŒ-ûóüª¹éãêz²½ßö÷ -õÕvctA‚H˜¥²Yã"	Ÿ
+w›ŽF[(Z-
+"Åb¬|°÷ŽÏd©ÃWíYfk‘o´ÏÓuñú“â»×*ñ›Üíá7àÔ¥p¢õè$’œW¥2ÀÊ7ŽÄÿ¡š·¸ƒ£PX'•H©ùÅH]ò¨+!ÏK—§sï¼îÛ³5Ÿ¢„¹·p½ÁæØZ¢²púÅ’ô¹ÝÎ¾Á°p,ïGCvUþ]nùåô`:-vÂ¥  ¶~ö“™Ã¼x@ñyœVÅ8×W$Ê™ŒÇ/Šg’’ÖŸ›Ë¶ i©’Û_¨ò‹9ymašRV-'3Àà8{0tj¢ÚY"ZˆûñÛµz‡H^öñ ’áüÛ‘ÍnÞ[tÄšV¤×(ðå² <<ûd²`U•S[ã=Yq#ÖÇžb§ã0™ƒáõ#ÇW•\x|¸”7ÇÍe8#ƒ¼§$ª¤öóâï-;»×	y3tè]÷ÉÞ?,c+‹AöËÅÉä‚ÜWÏudG>;,È[-ñ?,Ï¶â»PÞ[žSßE®ÇÌE#9¥®xô9àmóˆúmD>YÓ¤÷äKvF¶ÜØÇæï<Ç/—o{,³3saÂp‚l„3¸•F·¤¸þD•ž¤ÝD9å†ÏADæ°­äDêöh*²#Ä¯ÛÌÚÂAÀÓãû`~ÇÅ'îÑ`‹…Ÿô_ÐüÜ,ƒË)|¡¾š_fd±¡†€Y	œÉJ¤Cú¨|ÍöUâ­ì°e÷—X’¿P˜ZDÔÙz!4:µ‰yß],¥H&&¶ çsI8c-°ÐoÿXÎ¹"’iðu«°f·-ª|(ãZ%d"Kñö´!óÚ‚Áâ”)Öýe%ƒQüeù>Ð[ÞÍ<xê Çºìà>a3^¥ýlŒcà-5Š]Nýyó!yÛ¬hÕ]ÂJÁ=ŒRÑÎáJÁþ_IO^IÙH%y¬tæÁ·’ÞÐTŸ$@ÆŽ³¿g„ÜÄZPUÖÔïQ
+_ú’·åò7ñì^¦ ÉM>—F4¹ô!h4%¹#œ@êWÛí)°³;ëjÈÀ®ÉÝÅA³-W™4ÿùUˆ•u7€Å€Ý@Oy7Uä¤–W´²vbŽ¹êmÝ1ë	=ˆ¾qô–=y#õËmœ9:çÌh%,Ûî¹}ý›ú\T'y£Ç½·Yø¼ë¯¼:>ý'>Ï
+}±”/Ò9Å?_R´ßHžôä¹×@³hw¯V¾¹¤Ê¡ðÒr©Èðø¥ªˆ×f‰”01¤ÙZ
+wÔ–RÅÜ®Ç­åMnòÉ(’ùÐZÏD¼ÿLèÀ•üÁM2A[9˜Ù¯ˆ ü…Ýi˜6”[a“Ö¼8i@éÆ^Ø]/ïÙÇÚˆ©f­
+óÞÈ:ãöŠñX‘v~Õµô]ÝgõÁ­Œv{N¢~ir0‹,G¦¾|€ºt¹Å^r’ƒbRÅþY¿?þàgz‚å?ð,/â-2N»GC¯Âãÿ>Žg›…±¼åÝ;ˆ£\»d@#/d$Û]Ã#ËDNh˜Þ^]e¸OáfÐØËÑ«Gýƒ‰Å”Gãç?Ã>?(ªöÆjêéâr=®M‡Cqf³åcsçEŒÌËzÈµ@¶ïae‚þ\iºyPëž­PW5"wÕS™q#„Ó¼c³BÊ“6Ò[xñ7ºº…íXwîavH‚K’îÈs|è wccóx‰)j q%}öG>f	g;¨&|¥3‘ZˆE:jøÞþ–1¶?Z¶lû$:òì¯ô‘>	bG!yhµŠÙý;'¹xæŸ¯@›Ççß3˜AFZcî mÏ$çXe$ã­éÑ7ˆ5LÑ£Œ(.!cVäÙvðÃU¿o¡WÆU‘™Z%øWŠrñ(@Ó‚ÑŸK¤?Æ–ÔÌà­.î­²ùãHE	ü1v©È‘|g
+:ÑTR½GuSÉzb$ÖÈÑ]A¼d(C-z×m²øÆ¼=¸uÆÝ²inBê(·ãVqþ¸³Sg­nÇ™GÜ{‚D¨²b$3³ ¾¸ì#qè¯ñ»¬“m… ª´òÒÅíÈŸM
+3þßÒ3±_ìGz(ˆRü‘sú<×—Œ*È\úÊC„A—ns?Ñ]½úÑò+óî¬"SôLýèTg™XÊÇ|®WT*¯¨ý¢G9¾ÕÝà@8sL4DAEG9–× ”…ÌqFŸ@³ãÆù˜Š>áïÿ-yYLínoè­^nè«Ej÷ó¬j½à×Ý™L‘òYóÂM-F¹¨Iìd¡'Üï%¯-{ï'òP—Ë1 ÞÌÚ±Ûc,0ÁÍÎ@¦)9çàUø
+IËVÇòûÍ¾$¨—Ý@‘
+¯Ìmù@v÷"ÐÎ8Ìaµì¤+úÀ"~“¨±³;<	œxI’¾ˆWv1ƒ¢Tÿej}öôâ%iþîÜ1#UøÛá£.ÁËýE#”Ñ!Sž-"T›+¸Ñ|ŽDFb[çtÖ›|8›ëOÜåk\îªMƒ'•ä’â¯ˆ!G¡Õ™ºþnëÍ˜dPŒê’Á{7XÆP}¸æøÇÞ©  à?ÈÙÝ£X…‡>µl›èì¬™†¸Z¹¢ýÃ P±Ž¢ÝpÐÔU¯kKŠKú”\Æ€•ÆÊKŽ•¬ÅpršY®’øŽ1Kix6Ý%ÄÙþ Øn>•¨ÇÇÍÏ*ypÐVN‡7N1zŸ9ñáëµ{sYœlŒŠí://Ó$MÎÖ²ÅNµÒ/™«==ý½úÂ%OÅ†È45ÁNOJ6¤5©Èë[PéÃg#Q²$ÄòÐz”	`ñÍ}rGèœñÔ¤áCYô}=`Êã v£Ù2F)xwtÔ AÌ¿îÄ_&ÔusôWrË5¡NEª³ó$ÙUù8“i²Òýõ‹#m}¦F}áç‡ªR‘Ô˜ŒzÀ¨Ú‚ÖúÂ™õÖ£2C@z0vÝ¯ýõ	‚?]èÀ#z+k'°=;,–‚Åµ"`sâfÈ1·ýv¿n§žx†‹éDJÁÍë<2~a<Á7kê0â›3"é.ŽÇ	ƒ²’¥È>ÏWHÖ‚ßÓ¸<¢‡zê€  ío(ûhJQú¸„{*BÊ]¨È‹[æ5å]˜Y”¸÷ö)ö¹V0!ý¹ï3ÉÁBJ]Dà/xî¿ýÆLÅ{E‡-‚w-hƒÚp÷.â6¶r½_E@†½*.5×éc|¦}¾ól60±Œ)"¥'Ù½^ÁàÏr*†°OŠeŽ–[5sÅœDáÜËÈþ°<à<ñ<øÆ½e­8Hš³ÿc”SÆr&yî©Ð&’ L!%¸dð˜¦éDHCUàÄ6ƒHA\i5[¨OL †Üˆ„l;p(8¯€;–Á|ï%°çMÏÄ£ëãÓ„ÊýÎé§ÒbÂ´åŽ@Ñ]bSOÀ	qŸT¥³9P‚k,Pa«Á©ì3ª5ÉŒ” †)&bð0I†"ç\ˆÜ
+X@ö] (hÂlìóIø½(%’	è[y¼XM*
+%®™1`®jXçª5˜Åÿµ Žè(ÍëÐ2Cñ®¤Ú×eEíîúêEêÝ)\Ç¯É€—ª|ÊÙ¬?œí	±³R?—LÙÑ„êò9W›ú.´Âé©·Øf9¯Ó©oIHÍÍ³ûc•nY@hj˜GÓú ]õXÞ=“¥_%'1I‡+[£¼5f‡”è×TüEéY>®Íµiº¨	Ùƒ3øˆZÀ}RÓ‚ÌÐ•¿€<ýGø2žÉPV£´Ï¿§<$¹ª!çC«Ì{’ç,ÑôÖÃ.ôE_gr	swwß8¸&\6æ^ vöÜtÞ¶j•öó÷°€¨èR²ž–Ësé šÚHŽ)_eÑ¢ÃÄrÀ“¿ÍÃo½)—í[„ÎG©Ô(£]L¦£cjAÒ4ÎÝÜV7õó>•˜õ]Ø`À+qh#<™íùJG`P€ÍUñ›£nVç ÀàîÞ¥'‰ƒËsÆcU±~¯ó	*A³´;Oh€¡#ôm9ÞxÜzÆ±Kz„PGéúÎ´õ«h­k=”ê%Wü£
+¢?œx¥ŠÛZËñ‰i!<¹1cÛˆÞ|¾·¼¼œÌÔXÉ÷ÀË-
+ˆõ‘·{$R‘¢MD‡.+N>6åÜÒÝù=qðc–÷„ú¬ú³š%Ëå l Q×wã3D0É(Y¸ô¡üŸ}tÅŠP)½Œvô5]Ò
+VäXý¿‚›êÚƒ¹¶û°äŠ}±?þ[ÜÐfÙ~É`ôHiÒ®[!·¾æó»ëÎ¹.cæ&}ó3à²éD1*`9OŽØø»Ÿ!»›Á«™ñP«(±/i.lr„ÿ àAèð+îOá0	–ì¨öÜg)}èÎt±Âü¦ÓÕž^s¥`hE¢ÕÔ6/¢Ä/Ò&™lÁÅÅ%ºûŒ‰µ÷ÌÜ¦òê0nL=ð‚ÍjTY†
+=M[h?Y@ò‰€È³þê:¾rL]úÎ¡I÷•¯îËš»ŠIÈ®dîØ*[Ù”G"Hn*¦ìSéÊE	yØoö+3ÆÞÖ‰K ¢	8UÍ­ÒM–©ÎÄØdÜ«JI5FrMBEcK«ÞØSÐ`Ød§È…ÙQ±<Ùí«ðD?Ïs‹l'Ë“©ÝŸ]9Ã–è§Š
+™çúë¹€J8N.9«?þ	ÅL.Ä.d~T•Ëø„s¶1ç
+×^ K‘ƒ}X›ö"y“^myýËA5£q·hM6:½zrxX†F‘9ÂrÝ@£IÞ°ùˆN&ˆž iÌ(@×sy@4D½žöôX¾)ö›â´G¿mXÚN¬ÌkÖ/b=¤ôÉ®Pão,KÚÖ]
+é>àŸ¾æÛƒ•B˜ÏVJ{¶á‘¨­‡1	o\Í4LUïfJo¯;L|O)r‰0g× /*>,}ÛÈ{åð³7E$‚Õ]ÉÆ¥Ÿ_v¡{RM\ÿm2fE‚Ýäò³ÏQ›¡c†&E	÷×sÝÃèÍÂ¡?½ØÏ^OÍ+\96[™Ã¿ÐíZËhÝ±ØJ,Ä=&Y±{8Àù_ëÓxšÄ²iÂ„°8Qò¶†dÅ@4Ò,*€ÌcËªÜW™±¦Ô
+Ó1˜‡NW.ªS¢Ù9m11·h"¢—;¼ßÐP1Âmß?ó†…®n’Pôgî©]{NWP	¹³¹z]·ésƒ42¯&Ôƒ¯Ïe€™&(fitN>ð`µ…0!+ñ_YØ|´üàÜèî6÷QŠDÉôÊ—°fy„Ý[&&¹^l…û›±7öü'Ž¾C)‡))0Áí€:MYõ
+™ Ê<ÄlÐ‰y(±k…}*ÅÉ^EŠ(š±œk-½¹cÙš½%à³Í°dRp†BÎbïçŸD²²c>$´}'Nl‡Æ	Žþ¸„"Ó
+‚Â©ç+1ì“ÆÀz^†Ö…áQ #Dv^&*ËÔ/¾lUÑOEBºNþþO3Ÿ/èLÝp)<Ò¹b²ë£ïÝVNðdyfg"Äó£ênRÁïLCºV‡X­:„ØD)Ba:JZž,	O'Þ9uÛ‹jUŠ‘‡‘¢9t“6°Ùm½zÄ]àé^Õ‹Â½0j…ìýç´ÛßwÜ	„ä³Ç9!úÓÓ7É‰XÓ£/w½ÇN!ËHD	0:ëUÐo*ïÓ½~¢&Hr<ÂÇ•2ø::Aí@‘8Upâ©®T÷’lÃ@÷wna© Z
+Î0º·å×#¯R-ßR/h 0Ô*'(y“(c"ý¢_Ê :A±c³AmLP[,–mP)Ò‹lÅœ·½…³Í¹Å3ŸÒ,}ò¢«}i¬ ¦žRíí‡µºJž~¿0$„ž@hb@V}S¡‘5ÿáThOPï¿Ô=m²šXáû§í[¤q#õo™mÙ7~¾ïI{ØToNÒÛß”uŸÎ½1í¤)Ô¦&W'éáë%Òþæ½$£ë‡1Â·MÙ/Õ˜¥@‰aY’–ùéý[Óœâ·
+§)ù—mu7ÕÚYûÐ’L<u/1”Õ!ÂÂ€YEBlCXÅ$6Q°†¨âPz#Äeª“[ÿÓw´ÝOçÙº„hxšÅ´P´E©5è—†êWÈYÝ§…ãÉÙï	®BÏ*±¥û|TåW\Ý$Ÿêü©™&NS²5œpd\ƒÏ,±<@iËpù…5¿×ô&šòj!ÃÖÆÔMS·`–ätÏOnÊd1‚F#0þAÙ…ÊÄ·šæÖÉ&jÐvÔQ"Æ¬E³Ð´Ðõ‡V£A»–£¾‹ØänÑ‹èsÊ/ú@ïuÀ¨Ÿ‹âÜ³\Õþ^XW~ëÕ)ƒžÑLR+A	{J|¸I¦Il%{oãT‰KÌ r¢%@[øÌ¯ ôe{g‘‘§¯RH<[Mzgf÷:+ÜÖ¹ÀrôõÈ†‰9f)à—3ÖƒAe\Á0œÄ‚”¶k‹‚È¹é˜dT²Sƒ5²ABû²ªbšÓ¢%«ÓäRã)ì“3›V¾ÌlU½êŒØ_w‹M*r’ú<gx5gbƒñ ;ð{Çe÷_Ñ7yiÊÃmu]2Õ+¶~ùàn•S¤>å†ˆš1t}[·WhÐV&™þ–ü mADf)á6^©2
+0g)z¬ V¼2®nú/ªvfÈÎ[J™—Ô}/‹#¦ÚØà©ò±É«ÐHš! ]x2š½K©J'i$J¸¹Ð1=bÚØIDjÒŸ´ðÂêúŽÑ¹~7Ä³ò¤éY¦n²Zñí‚/NÞ¡W,‹Ú‚ Gh½:&ç% ’˜ËVA	vÄHªÄ<]Al4@OtZð]X»þãBR9ö ­ÁK“BË`-Ò–º³Àî JæÈ*E°ëuåÏ§åIf¤š¹vY »|‘ÝîoZécŸ¥`4Ž0
+‰–èš‡˜•WXVÆŸÙ—@ù¹„(OúW>Eõâ‘ªòO²¿x$<'õœƒû’­öa t‹äŽ¶G¬øÀ—_5œ5@¹º+‡o|#ÞËu0$þ%ò°fÿ­„ë„Ë&oLïO5°€ì¸Zq¬Â§KM|v01Ô½ÄW›ß ÈÒ«IÍr²Ûd«Éƒ MTåÈ9Œ¦›ÚZS_8ºiiJÍíQ©ÂÃUpä
+·’9žý:1?Tâˆ.mî¥ƒ¦zðâ9@‹S¹:^Lj»\ú.hˆmw˜Jd.~÷™ÞTÕËÎÍCMwA)ÉMt«¢º?e¤´Í1íYôÎ×ñIfíKŽADå.íf"lÕU1Í÷€5ŠùµÜaø˜qi ôEÛóYŽäeãw!bÑO|ÊJkjc€ Á€6O)r€ê¤5=jžÆR?›ÏÑ—ÆöSïl&F‘”öÉ(Å–½u~§+Ý‰Fj7(Ð/¥}ÃÙýýÍz'Kc³Ûêl]¬iä`Ÿ6þAemL±¨ÄÐ¶GŽ—›êÊ`¶Úrz•QÐÁÝ^ZY¦ÃðïN\za=|¸$s²8,Ð´¦ÙU§Ö*]ï.ï¶•qDLu±¦{“6 iëøã+C+õa×)P\&A‰®ÒLŸÛ¹¬Mb·sŽýye‚„k|g^«k±Sö8Ð¹ë2<­Á×˜qÙ’T=©±¯ÛàaÿqÎ½ä8‰|éÇ8|«N¼°£C¾ËhjOg4º2ïe'p±TÀ±$¢£—LY’LD“®ý;5a–Åoež”R¡f% •^0Tµ§6æ9¿^G^oaëãµÙ¯Ùßæ°D^H€žïÄ´Rõ»&püœP âx‡*¿½n(ã1åÇÏÊl$p>>ÄáÆyoAþOyô,bý ·šÁ-„>	,!x ÏNÙ’5Z¾¢öÐ3\˜ãAÙ³pùš—‡p“àÔM—Á½'š¹õÙÒjXBâš^BÈ^äšƒÉÍä¯”8‰Á.V‘]Œˆ,˜»¬Ã:<ÖZ Ç4Ì‡°ÌÈ
+`NçÆ™·—/%C\ÐÃò±¿sª„8éÛ"cCÅ¤)VÂpkÐKWê7)Õ¿Ñ'ôé€JMW ºOÍP¥„Žt¼BJ!âÓ"ËÄ•Ž9õUjL ÖÏÔHœ"õUù‰¨A äýŠÿ
+Û0¹8D®œúÍ9“~ÈŽ-Ðmc
+r®çÈ…·MQ“/1Q°IcŸßò¿uîâ••ÇŠÈ/°zidìã*]>4’Œ"‘[hz1rLÐ°¼´/¯óÝK{¾ÇW§vKJ†G8ô§ªHôÎ:‡v'ì`=C×¨Ê”J4üÄ˜:övMi.^SnÄì!W72vö| <H‹¦ògW´&÷í[ÊÀ©É‚½®LªùÞÜå0ç¦à/P‚É4xC§AUÃOÔ*š˜y~ºÓ$Q7“wú÷áù}º>¤7góA¤ÃIµEY_÷5¸ÈOtX{÷‰9ÁqïNšÂwäe2ÍˆPv²„®›}ÄFVÅg	&á›¯Òe2„~Pr¨@áNÃØžæº1²›ÕY¿=]SîÕÀ¹ëO/]ÖËMà=ËIÙù½ ªˆ¤¹Øù¡M¥Úƒ ÐóI[s’6Á/,»Ð…‚§–Ñð.4"Ïn†™¯‰~6XÏ`Õ8ÛÝ/„X¬Œ£tõ‰ö€ÏDÎ`>t=h+]íKŽ ŽR»)÷.Ù°s8´8äù;¦Þï9è.¬E¢)®^tÖ¢'º:*—ÜŒÛ6<ªVÿ:ÂæÂèm‡¿Ž<jðÉÍq,*„¯èMÔ5ûGNU¶òµÕSªÆ9³¬Ó-ÑÈ*ÞCÒbÂù¯hõ,*"©Ã(yËd$˜IB€ò†aJ¿68d‚Q"ü€XJ¾-:þÈ'ª5„°»Iã
+=!>)ãjUƒ¿Ý‚Œ¾Ÿ®«eÿ©jZ9.Ao«Ç¢GI*¸ãã°QíÇ¾‰avàVíß«½dì=
+A¡!7AØ-Ñ€¤ÏÞÇ;p¥ä)™s;?µžì‹lèQtWR¯Ñ'Û¢§U’C8‹7É¤"\·ã(S§·®¾²2-†B½{²8E]R-ÆDÅâÍ§`®çRG6X¡ü˜EnÇIó‹>ÑmüÜz¿ÛXˆë¬ØºçùOôìË¹£Ï ÏmxÅYQŸ]3ŸW¸›–þ–í1hzM‹+%ïì&Lj¿™±~ì9$„–Ž¼8/õ6a>CxûK;{ÞÿíK,íN4yÐcè\«ªíŸ1Ž¤ƒ%QÇí½Á£6U%\›¤ræ+*L7¢h¯–‚†pZ§ÃvfB(º{L5<iÀ´ªÒ&_›öèr½ûR‰<¬Yß/ËæAµR–a“A]OŽZ3|›¯4Cù¢ÃMÿUlÄ_DÇG­ºQb,ö‰	ðåìÜµ+?èK»kµA°qÔ}&À\@Ã$.Sî¡k…
+=õ4OôÝÏÊù¡;lì~êq#›MBx‰Ù™ æ›QYé\ìæeÁÝ4 í’£2ŸR=°ƒ·>KÔ'ÍM ^`%½ÞTå‡ïú©›«Ä,b'öó‹w§çf2¯¸¥¡sn{;Y€‹E)âèFŸè]…^å/úR•²²dmD!Éƒ}¿áöª4¿…ÝÙ‚ô&?¯Ž8T2­Ø¡k6·AöSØÅi¶öò…¤rè—ÍmŸêõ|”×C³šâ[jÚL²þ"–køÖiÈZ¹ÈtT•fYXu¶È3s­+ÊÕªøâsý[¤­Ì‡s ‡+×fc>‡_ÒUÍê´Ì_ýºÑúœS"|³q§«›˜7^3f6I<’à$°Y¸]Òµq©¤üåµÄFG¦®´3à!(zõá Rû­—‚G=£3AP½ý£L_
+Ëp>dŽQ›N±bÎ‡V¢Ú+ÜùÛhÂ’­ AÒßàiBE‰x`îAÝñdî¢í} ‚„ç¼šÚIæ2âŒZqm#¯vò{'þ•ÒñÜLUIÃL^Äh¨ÂÐÙø²u„Šjû¸_EÎllíÝÀ2˜ô§×OßÑ:43Í¿kÊ]ûŽ÷óÖ¦>`›r »pîªø`óVkdëí§!XË^fÌ_Îµë;:S€½ú0‹ü_š®	Åfô)å.€eÏI0‘Å|Í‘„þC‚Œ•²ïÖ(VF’üž"Â#ñ1B„kÔýŒ`Q[¿·Êø^ïaä/ÈFÁÔù$Sß©Óß1I•œeŒ£LGO¨â¼žÂÃÔ#åyèLOµ-8F÷ßäÉL/G…’Á2Ô4VÖñp†7íÜœô I+ÿ¿…fqÈîàcrÝöX1V²ÝŸ¿KÔ:.e</$ ½Ö"·¬•Ôµà~EÈ¥>+=%{<§8Y@ ·ù#Ú¨Õø¹è†‹Y¯?þù¸×SW™Cä²>ÞoÐƒg&ÜþrÐãMýzÊP¥~™ÏüWá(ZÁ•ãLlàê1Ý>np¶ CG/T?ûÛþHúú”î­]”»ŒzÊÙú4ÝŸ¿¯ó—8âÒKq½¼¤”*öç[µßvZ˜ZÚ ÅßÚN!@¬ÓbäÅ£¾ÚC8'R´|ËüM^âH›ÅeF—@2OÉcù6RƒvIBaƒQn¼e”x+ëÑ××‰sN¬gWÏ^B#£¡©ù»üù5ºîýrxÑMñL0ÊMWÎÛ4bðS²ÇÉ š2C%â›ìŸÜÊæèhÝ>ÔqÈ«³ÿÇ	S@é_jœþcØmŒÀ¤°y©B\ÌÅçï[Wiÿ:ÆÙ>*à^eêSÆy¹½¬ä$Ô¥iÀ-åqÞdJÃí?©©Cf])–F xÒñˆ6Dð¢˜ÄSÁ‘²]r¦ÿÁûÓU;0‹4Q@q²"XÄþ~Ô}0<N/1ãº¹æÃ3¥O?õ·Ëáš<Y"ö?íÓ¿ýY´ÿÂ‚ó*/È9öl1ÌÑÒ’´zðÐNrë_©žÇó X[Ï#Ã8šBF ÄBÝp¤0†¢6ˆ:!§„ /ÿ(ªàü—¢eˆ‚^cºe¤™„´Ÿ¸Þ '*ü‹õ‰mÉÌ¢Ê*{¢ˆõ-Þoö÷/oŒFM†®§e¯‘¤l„÷ŸU/_‡!ù	ìÐlD"¾d'4‡6
+Ãdm_ö6ÖŸ(+êÙù_¥œÌóõ‹?‹ÿ}²ÍÖ	ùç`\iAÁ¯T¡Û>.µµo$†ftâ>êÅ8¡­?@êý8P7Þ¿ Aâ¼€C3£Ä$}‡fLz§“'aþ›Âìþ<(ó¢>.J0wˆû>Ãz©§uãuoM#Êg QSZûzMÒOÎ1Ñÿ«Øá’[Õ‚¼þÇ…‚‘âí¿?¤÷4 VýùB²‚|ó˜]Å.!êÝu!ªÐxØí½®¡)&ht¹‚“ÿ`›ý—UpâÕ‘nS©};‹¢;!Õ_ç'!¹Xn_r¹UÝÚq†Žý`Ô¯¯QP8)°Ûà ÎŽ9BýŒlEþ_`³êy²Õ‰}ŠTÔ.ŒM…Ù‰ôõ_Ex_¿W;yC!Mlý-±Åm@“ÐtãS›f¹à0›ü£El´É_íMIöŽÔ’ü›A/PöáªmQ‚ dÿe©&°Z.LW&H½¶‡>©c¤ä‰¡è1x‹Ø!ÞËwN»€ÉÔü‰‡\álã×Àd]¦™O÷‚4 \*Ô|½[þævc±©ÖbY›¬f_íTýÄŠTMT7Bê†
+‡ä»¡´1nÓ<ð‰Õq;T½OÓ«.Lš!Wkå+åÔ‚:Ù(›¹AÿÞâœµyja$<6Oq¨/<æ)ÍÕ›¨‡xË¼âW<4ƒn•~=Ú1£‘?=êY;­vãƒ°_^} è¶H¦¤‹u´Pqÿëc+$AŒšaE+"¸ˆe#Zm¨:ÏbAòmüèùÎ³¬]È¹ù‚HÒ$/‚`––ªî¬[Gë T«D—®e˜JB–œºÌ‰”0¡ì§EZO	ïM¡Ø¥OUBdY2=¨¨FÒc¸”g Þ´m´%@óvËƒ‹¿ôØ"¥9d×„Æ)Ø”ã$Éú¹s¾5_ø€r˜jÌ	3xAá!494Ö³]m¸DoÝ4aßw\%Úp/ kÉŒÌ¡‹¶ÐâÔð(jéÅ¿k‘y”%˜Ýc!‚6¢ož„±
+ò¸A,ø¶®QÍa´ïwÓæP~neaÅ€¡÷øü1%çI:H'ÓåËÔOùëc"å?oê'yèòÛ †ÀC2ÔIHžPZ_%oe	Hâëè(MMôãŸ€#dÉ;ËÄ%H[SS+’AW+mce†„ŽÝFaïtOBÝ‹whÖÚ4!òuÚÚó1m­9¶ã Ïí*Í±ÿÎ‘¥Ÿøœ‹@Bšñy_Œæ·©"l²aX@aisYþrF:1ýßm©Æò·íèƒä'ýf°ëÙÂMWû«»»H¾!ioÀ8Í*Å™ÐÀiÉÀqx»KÊ¬ïªø3u/½ElBÅR+,[÷HXc–“¹0ý|%0ç²&
+WUþCð,"6‘)ë¿¶e	¦ðÌíÈ*ç+Â,Å¸È0ŠÅiÕÅ1,È»XÊªÿ¬9òý29]%,VºªTFh«‹<ç+'e³]ùË¡cþ¥?æfæÆùï¢zWŒêJ Ø 6C3"    ®[ºµWÛe¹!n©A”Phƒ\Ú²7» U¤Š^E,C@Ý˜S›«ÅŽšRì‰3:$>IúÁIÒ!(žµAß¢ZU±è„`ì„ŠU‹ 1 ‘™€+ ~€åý(O°['KÎÚX’÷}åðÃŸ×åîÏÖ‚¯jëzmUSn‘N®MÖùÜÂ6ÊºMyø¨cÛ—¼SîšjSrÊÛŽiZW¦r*Ïrl¦k¸Ý©¿ô@H  FŠ† Î¡¼÷îæÝíÙ¶\eæÂddø‹‚‚ " ƒïßÿ÷l"¨8QöìÉ‰²¯™µ*SÆhAfÄ•[¡[‹ÒSœÐð:¨`ªMÃ‰3Ét{rÚ9&¹V¡´¡´Ñ´Á¼±6K™·as˜©KÀ?EÔ8Ñ‡
+ÒþsÎq.˜@HZ™¬p2¶ñù6`ÂTƒM§[Ù¥éVH° BM©u<‹zØ©}ÃÆËŠaGáµ•bT]LÄ6ÒJNür1¦X÷(ñÒÆ¾áVßel_-áq¸¯Æ*jgßäíZWvÑ¦½Í¢V‰ëßúZi9­TÚl“ß0"K·WÐ’0i&"ÈÌ¼I¸©|€rM*Í »•“ßælPˆ8KQ·)pY§…æXSÌL
+¬Èn¾™|hqç|vá;ÂÃQ‰Äøw&PîˆŸ&,vzøŠ½bWÂ	„Ï˜d,³åëŒ»aÙ]ÀéÓÆÚÆÍ#þ_?{G³ðØì¨ò*}M›g¹8ª¸®ózN	ÔËØÛI«šVÜ±pTØ5¨»ØžÆ)#HbÝf:ä¬‹Ñ6‡†Œ^PÚ6„ù¸>B|
+Ðbä
+›© ¬8PøZN 6?¯ØÅ#ClW\R`¸#W›Ul£%T#jàK-Ó`§Qúg[.rhÕ¬clg_.Ðý8oËÜëŠ_ÁCú®ìÔ!¿ÕC-ÛŸù”Íe´žÏÀ3Ê•}?8Ë¥Ÿ:__[ƒÎÞÍu´­Â}¾ÜwsûÃØòLÔâÄi_£þ6,1³#\²¯TÿX¦¿ë4fw¹œë•»JˆQšsHX¹«^K&IŠ²(ƒéáåE’›†_Ù™ƒ@–
+“²4ÌÒ+$Ûl×1xÙ°MRº)…£Žrv9‚ÖÜåP–p™~gTq% >BÎÔh@z8ÚØp:3÷É&àRàuÃRü‰¢2•d•ãÔ¥¦™UÝ’ û%ïTÙüÇi2»¸fE¾ì'(­‰Asq›÷ÅƒÜö›6·—•˜<½¹ ëëì¹12èc¸”ýÏ‡Ð¨ÎŽdo	S„ÈUR;|’/	6*†ÊÎ™šê§HÆ¡¶-–º»¾Æs£ctd¦ç{ËÊÎ_æê2½Ç/Náû›ÐÞÀDº›P »ya\ã·×ØöÖy{?Ø*–õ’f`ïBS€´$µë#q¿à»;·½K!ŠnìÞKfÿ9æ>F£‚ÁpCvV´Ôpô”[On~zV½nÛE9¤3üF`x™G˜Ñ¤ªå?™{èRû	‚¡rBKÜ<çm¤±7#Ø;À7BûOrgŸò/EM»akNÚ¼WF€¹FAÓð 3T½œ¥6„Êqw­ãÊ#¦z= ˆ¬²	µF¿€«öŽüp5h÷Û0vÀqn·|ÇŠ	gÂßÝU^ÁsêÂV"¸eÂ‘ÓtGÞ®T	WPÓÌˆ`\?XFh¾ßšt:£‚ÒŠïŒ@†³˜ ô!ƒœëæ[%9i}^Š}}vv½gPU'&í6Ý÷:sºuú÷4&†?°Ö2„¸N°Dy%BòDþ9¢Úåµ%%WÂ{ÛÂIôç!ŸÏ@ßÜqÛYŽ<ßaðŸQ©´Ñ£À¶ë<ÆçANPøÃ=uvLÕå2fbAïŸãS¶LÞ„Ý±~$õ}øõÑWÎŒÂ²ï´I:jYÜ”²áÍŒ¸“ç†2q#8Ã”PØ7zU7Žbt¾×æoy›4Ù°–K}ÞŸËð:8è¥“¤ø*	\Û!¶à6OhMÝ°´¶q›™r¢ ç'³é0EÔQx¼gÛ{þvè³ˆ	!œBo{NoþAE<÷é•ûÀ¸‚rãrI ¼­Ðs‰²ã”ýÑLÇšÕ™§#-÷/QÅÅMPGåºVO‹pîÒ¾¤òîôéAêá+êå›œÌbäàA&
+•c—zpRUnÔ±M bYqo”Áí2(¥ÂÈÅ÷8ë²Ü8å•{±Ð@«1@]½,PC5Ñ.ò§îB„±l]€
+00Ç4º»#¢&»™]T´qSÃyß¢'û’ÔÂf´:ä|íÚHKt0Ããœú-3h¹ÆÊ2A¢Ý:Öðë\nájJÕû$ß=X­³¬•§ÃØMÔu˜PtñFÉnçL1nåÂN3ägE‰¿‰zË2R…ØìüA0žŒÐoçsÌ>ÅtÔ§7e­ß+ÊÔ·vlß¥“ÂMñ£ö•9Ù RÍ>²øéûü™á‰ßý=f)C%h5æOúê¡–;ðj}vÐEþ)Øßs‚ÉxA–s›	¥,kŠœªEaKË²´Ä¢Å
+ÄÃóRÊb„ax8 !½ë?#œÀW4yu,0`¯^»Uã»ž~¢hÇ{µ½VOZNXzð¼`¤‹Y‰
+ëó<+ ç 393E/K5òÐ1Yf‹‘6»âúN'—Âé ûW¬è3½Ðjo©Mú¼U²€Š=1Ež¶&M'÷iØÚ ìî¢öîòTä9(ÁÁíŸ¯né™ÊFqD.ôÚq"èØ>äÇ¬´‚-^ w8ðžÍd"ÝÖÀƒ‡sž~ã?Cs4€\6ÉåQûïMb€ä„iqî°Ïáxñ‰^Ö¾/X·
+¯ÉÊ¿ùx¥é‡³k(Ðª÷Ûé4‰§6›âÀ	~¨/Ž0ØKZ}ÜóI^~Î ¿mç$ð
+ÆÅlˆ
+<!ª¯X®Í„À»³Šµ½ˆß8­¾!RKGñ[çíZÙrO6–°êªc¥õÏ†SÉ<Öb•<XS­:Y¯¡"ÍC»Q—P–’{ËdˆÎ­¸ô¸å‡;µJ@ëÁŠ»L¼uÙXùkë
+ö1¢7ÄV¶|'EÒ[]-=Aî­wŸUVmÎºÛSÿ‚L¾ÏVö-\ñ¡âQÄÞû­3mÁëÓ¦jÐp§.#µÉ=ZhdíHYˆ`»]|åížü²B¾i„c¸È½âµ…íJ9Kd4ËXs`NøQ;]Ónq”Ëkáó,ÙÜªÙ©œŸÑg«êõG™6c-»ºñ— ‘#iÐMáÇöý914ÿK…^Hd1ÇÁ;õ~ûòe÷]·—#m%¾r%]áÊ¢ìÄÌ|,{ ­ZQrõ²4 Ú¥_-RÎx—DúÏgÙ•Ì©ÕU*þÕ°´(*Ïß% 6Êp,ä¡UP{®&OÔ]^ÛNyI¼¢Ä·a% –/š
+¼Z¨—+}MGÿƒØKÓn÷Aá‘i²)‡þN)û3ÊMß½îá½ŸºËÖô”SÉâóáöË¼„¯t„«Sô¯…|ÜŠû1Jt5(nqgË¾V¦Áï}×ô»à\èä`uðSé ž‹…:Aêõ7-”ñÂh§ÔŽ ÷ó}žwÊ‚<„åÛõ•Q8H6Ô¦–kdnBéÄ O´ž¡Ä+ ÏÝÑQ7ëÊüq 9±{1§;²Æ	"	åkŒùÌ>CšÛvÄ&H^NÑ8~#°ô¨L”ŠŸôœö.sþÈ1Y/PsÚ@a'áéT»Ñ	§òu&0D"yéîL9Zƒì„aÿ›Z¿Ôâ'NÑûÙÓÑ[¨1ýùüIò’ þ#Šy»Y‘¦:n(ýJœkÕð×àk zžŽ$µt-R}…j«b‹ô“Éˆ=¤*L·é·%aÁ'C¡XÙ­oRùqG+ðžWíôËÏñévÌCmk° ±¦u¾b"Ã'G‹;•àl¢S×CÁIÜÃºÜY®Ï-µWà½,Jfå‹,{ÀoµBØIW9µ Ã¸ŽAZÚön½ˆ¯$–ã1EYÿg€¶¯£ËZ‚Ê}½Ï\ÜVªÔo¢´ÑaV‹šÛ¿ûÀï%º2Q‹‹O5|}á>ê^R²ú5,÷!á^®ß:J—éö©ÉÃ(p…ƒ‹ók;Ño ÄÁS›U¡øõÌŠ8‚.“u™è¾\SïÂšÏË=oÛ2O¬ÿÇÉÂ9x'Qa¿¹DhVx·”÷€Ón´„“ŸA¶·ˆ`c@3"@q¬	¢¬K°‡Ä´+VnÌp›P«qòp·tI… Û7€à}ùÒw?k[ŒZK®êÄ&5y·Y&`¿=?dîh‚&T/TŽ[a!®ñrÈâ|ë1±y›ä[Ô?EÐÞ­Ç¦r
+èteqNõ·Äð¦—¬K 'XN‚¹#	c¹YkãÀªvýRÕ )ÜÕô¾Ì[ógÊÏHý6ïÿýQ2ÇušUê8,P-NÈVÆ”v¹¡¯/ƒÏf€íüsÅDÖ¼-ÙCà“tÏVÌ,÷ë!7ò_%y	Ÿ®*â‰)üà9~£8rÌ~•Â\*sCÜV#ÏÊ –Ô¨™J•ßZ™WRèÊä° 'ºsêñîfR #H9¸f~„“0·óp`ì¦ƒn!ìþòô‰œ"2Ø\ßÍO5¸ñS,T£r!µÿ#a~ÂÐ}¢)|ýÍ¢úË£;F±Œ‹2Hù¿µÐANNŒNQT„ø·íl#®B’/“©À¬€_a@C™EBq]Žƒ]1ê«Ø¥@K8BY£'ˆ8Š‚<Á Û8×PÆ)üÛw•ŸFv‰¶(Ëq‘ä²œÜZ1¸«	j›´¯ -¦þûºáÛµŒøeäeÉ],‹ŒíRÇÛ:ÎOSRb×#‘m¶CÐR×ïväŽÉ}¨ò›^¤1H0¤B*OŽWQ› 6¯ŠÊÿØ|Aß¡#ïØú%tºñßx„…3¸®Dj1"œ`ë¼%0èçñ+tí4p–¥Äì¡mQ² r•9 È†ªzÕÀAÛ² 2š4†ãcä,ãlÎ5+ðèëÉ§nË¸ˆ•ÄjÔ6ýŽß{×”•Y»©c]ï%zóúÙ9öÓO¡ÚWü3žÉ­s|;ÝN§ˆ«ˆƒ‘ÒÍ€Ðã¤N
+òSod¢coäÏ[A.üš—\É˜÷ÇXÔ`ÒRíkYÓÀQi/Ù-]!Ë#ƒ¦Ü{Ö*ÂØòCTÌú¢•GK²¡´‘7;Ê*+
+«ù`„OÁ?ÒÅŒ±mYâ"žÄ)†;%lc‰ÛlÇá§¾ž­¸?©V4Èÿ#w¢çsL‡–jr€ˆZ‚–ÕS;ÜƒA£7øM;<?µÿœÝ@ÿÁÛ¦,ê‘s».#»´" µ™µmD6òö>>Â¯xÍ—ûÖK!ÉªC„VœŠµÖ„ýOV¶÷…³Æ-m¡ÜÂ‡ß¨S¿žR$ú<œ*¸'nåÐ÷mîˆŒÔŸ9ií¦ÎCµÌ0º¢„óÞâº.ÒP.ìÛŠ‘iÁPûö%|"xóì¹ZÞ9¯(Ždâ’Ò†½2/Ëë¿îÁÚqz±Ky}¸oóñïž×y-ë¿¾w)sð”ÜnŠÒ™*L[BU^D^A*y‘Ñ16ìÔ”½Æ¬¨_jsMYÚŸÒT#ûŠ ¦¢Ó¡D_Q¥›ð5&Æ&™Ë`‘ª/›IÆIŽ¦_pnm4 x›Q¬‚DôÇák[B
+Îƒ
+Jñõž ¡¡nŸ[?fúW{?é4DÑìPþž&·<‡*wäçü‘ÑU;´ºÙ±`M÷ÉgØŽØïºûJø—2qCglŠåv-ª)UdÐèey>
 					<data>
 					AacMAg==
 					</data>

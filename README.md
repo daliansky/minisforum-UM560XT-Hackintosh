@@ -21,6 +21,12 @@ minisforum UM560XT Hackintosh
 
 # 更新记录
 
+- 12-13-2023
+
+  - 更新 `OpenCore` 到 `v0.9.6`
+  - 提供对 `Sonoma` 的支持
+  - 博通网卡请打 [OCLP补丁](https://blog.daliansky.net/OCLP.html)
+  
 - 9-7-2023
 
   - 修复声卡驱动，支持麦克风输入
